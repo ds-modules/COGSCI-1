@@ -5,6 +5,6 @@ Fall 2019
 
 **Team Leads: Elias Saravia, Monica Wilkinson**
 
-**Developer: Maria Sooklaris**
+**Developer: Maria Sooklaris, Joshua Asuncion**
 
 
