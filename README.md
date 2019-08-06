@@ -1,5 +1,5 @@
-# COGSCI-1
-Fall 2019
+# COGSCI 1
+Spring 2020
 
 **Instructor: Paul Li**
 
@@ -7,4 +7,4 @@ Fall 2019
 
 **Developer: Maria Sooklaris, Joshua Asuncion**
 
-
+This notebook provides an elementary introduction to how data science is used in the field of cognitive science, including the benefits of risks of drawing conclusions from large data sets.
