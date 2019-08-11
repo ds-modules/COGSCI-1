@@ -1,7 +1,7 @@
 # COGSCI 1 (Spring 2020)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/COGSCI-1/master)
-[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=COGSCI-1&branch=master&path=)
+[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCOGSCI-1&urlpath=tree%2FCOGSCI-1%2Fcogsci1_notebook.ipynb)
 
 
 -----
