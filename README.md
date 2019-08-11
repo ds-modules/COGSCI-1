@@ -11,4 +11,4 @@
 
 **Developer: Maria Sooklaris, Joshua Asuncion**
 
-This notebook provides an elementary introduction to how data science is used in the field of computer vision and cognitive science, including the benefits of risks of drawing conclusions from large data sets.
+This notebook provides an elementary introduction to how data science is used in the field of computer vision and cognitive science, including the benefits of risks of drawing conclusions from large data sets. This notebook uses the Database of Faces from AT&T Laboratories Cambridge, also available Olivetti Faces Dataset in `sklearn`, 
