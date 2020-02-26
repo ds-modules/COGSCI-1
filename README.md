@@ -11,7 +11,7 @@
 
 **Developers: Maria Sooklaris, Joshua Asuncion, Keilyn Yuzuki**
 
-This notebook provides an elementary introduction to how data science is used in the field of computer vision and cognitive science, including the benefits of risks of drawing conclusions from large data sets. This notebook uses the Database of Faces from AT&T Laboratories Cambridge, also available as the [Olivetti Faces Dataset](https://scikit-learn.org/0.19/datasets/olivetti_faces.html) in `sklearn`. The main activity in this notebook focuses on what the advantages and drawbacks of simplifying large data sets.
+This notebook provides an elementary introduction to how data science is used in the field of computer vision and cognitive science, including the benefits of risks of drawing conclusions from large data sets. This notebook uses the Database of Faces from AT&T Laboratories Cambridge, also available as the [Olivetti Faces Dataset](https://scikit-learn.org/0.19/datasets/olivetti_faces.html) in `sklearn`. The main activity in this notebook focuses on the advantages and drawbacks of simplifying large data sets.
 
 **Sources and Contributions**
 
