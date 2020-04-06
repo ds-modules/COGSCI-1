@@ -1,7 +1,7 @@
 # COGSCI 1 (Spring 2020)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/COGSCI-1/master)
-[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=COGSCI-1&branch=master&path=cogsci1_notebook.ipynb)
+[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=COGSCI-1&branch=master&path=Human%20Brains%20vs%20Big%20Data.ipynb)
 
 
 -----
@@ -10,6 +10,8 @@
 **Team Leads: Elias Saravia, Monica Wilkinson**
 
 **Developers: Maria Sooklaris, Joshua Asuncion, Keilyn Yuzuki**
+
+## Human Brains vs. Big Data
 
 This notebook provides an elementary introduction to how data science is used in the field of computer vision and cognitive science, including the benefits of risks of drawing conclusions from large data sets. This notebook uses the Database of Faces from AT&T Laboratories Cambridge, also available as the [Olivetti Faces Dataset](https://scikit-learn.org/0.19/datasets/olivetti_faces.html) in `sklearn`. The main activity in this notebook focuses on the advantages and drawbacks of simplifying large data sets.
 
